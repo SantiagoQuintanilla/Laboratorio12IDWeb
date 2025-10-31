@@ -1,3 +1,3 @@
-const convertirAMayusculas =function(texto){
+const convertirAMayusculas = function(texto){
     return texto.toUpperCase();
 }
